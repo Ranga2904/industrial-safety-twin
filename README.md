@@ -1,4 +1,3 @@
-```markdown
 # 🛡️ Industrial Safety Twin: Agentic Reasoning & Knowledge Graphs
 
 An advanced safety-monitoring agent built in OpenClaw that leverages Multimodal Large Language Models (MLLMs) and Graph Databases to move beyond "if-then" logic into **Predictive Failure Pathway Analysis**.
